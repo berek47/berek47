@@ -201,91 +201,77 @@ I enjoy turning ambitious ideas into reliable software that feels fast, clear, a
 
 </div>
 
----
-
 ## ⚡ Current Focus
 
-```ts
-const bereket = {
-  role: "Full-Stack Software Engineer",
+<div align="center">
 
-  focus: [
-    "SaaS",
-    "Marketplaces",
-    "HealthTech",
-    "EdTech",
-    "FinTech",
-    "Admin Dashboards",
-    "Production-Ready Platforms"
-  ],
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 What I Build</h3>
+      <p>
+        SaaS platforms, marketplaces, fintech tools, healthtech systems, edtech platforms,
+        admin dashboards, and production-ready web applications.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧠 Engineering Mindset</h3>
+      <p>
+        Clean architecture, performance, scalability, security, maintainability,
+        and smooth user experience.
+      </p>
+    </td>
+  </tr>
+</table>
 
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Go",
-    "C",
-    "C++",
-    "C#",
-    "PHP",
-    "HTML",
-    "CSS",
-    "SQL"
-  ],
+</div>
 
-  frontend: [
-    "React",
-    "Next.js",
-    "Vue.js",
-    "TypeScript",
-    "TailwindCSS",
-    "Redux",
-    "Three.js",
-    "WebGL",
-    "Flutter",
-    "Figma"
-  ],
+---
 
-  backend: [
-    "FastAPI",
-    "Node.js",
-    "Express.js",
-    "NestJS",
-    ".NET",
-    "Laravel"
-  ],
+## 🧩 Core Technologies
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-    "Redis",
-    "Supabase",
-    "Firebase"
-  ],
+<div align="center">
 
-  cloudAndDevOps: [
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "GCP",
-    "Azure",
-    "GitHub Actions",
-    "Git",
-    "GitHub",
-    "Jira",
-    "Pytest"
-  ],
+### Frontend
 
-  mindset: [
-    "Clean Architecture",
-    "Performance",
-    "UX",
-    "Scalability",
-    "Security",
-    "Maintainability"
-  ],
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-  portfolio: "https://www.berekettadesse.com/"
-};
-```
+### Backend
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+### Databases & Storage
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+### Cloud, DevOps & Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+</div>
