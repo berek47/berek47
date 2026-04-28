@@ -67,7 +67,38 @@ I enjoy turning ambitious ideas into reliable software that feels fast, clear, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,c,react,nextjs,nodejs,express,fastapi,tailwind,redux,postgres,mongodb,mysql,redis,docker,gcp,githubactions,git,github,figma&perline=11" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,c,cpp,cs,php,html,css&perline=10" />
+
+<br />
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
+
+### Frontend & UI
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,threejs,figma,flutter&perline=8" />
+
+<br />
+
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,laravel,dotnet&perline=6" />
+
+### Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&perline=6" />
+
+### Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,git,github,figma&perline=9" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 
 </div>
 
@@ -177,9 +208,84 @@ I enjoy turning ambitious ideas into reliable software that feels fast, clear, a
 ```ts
 const bereket = {
   role: "Full-Stack Software Engineer",
-  focus: ["SaaS", "Marketplaces", "HealthTech", "EdTech", "FinTech"],
-  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-  backend: ["FastAPI", "Node.js", "Express.js", "PostgreSQL", "Redis"],
-  mindset: ["Clean Architecture", "Performance", "UX", "Scalability"],
+
+  focus: [
+    "SaaS",
+    "Marketplaces",
+    "HealthTech",
+    "EdTech",
+    "FinTech",
+    "Admin Dashboards",
+    "Production-Ready Platforms"
+  ],
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Go",
+    "C",
+    "C++",
+    "C#",
+    "PHP",
+    "HTML",
+    "CSS",
+    "SQL"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Vue.js",
+    "TypeScript",
+    "TailwindCSS",
+    "Redux",
+    "Three.js",
+    "WebGL",
+    "Flutter",
+    "Figma"
+  ],
+
+  backend: [
+    "FastAPI",
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    ".NET",
+    "Laravel"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Redis",
+    "Supabase",
+    "Firebase"
+  ],
+
+  cloudAndDevOps: [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "GCP",
+    "Azure",
+    "GitHub Actions",
+    "Git",
+    "GitHub",
+    "Jira",
+    "Pytest"
+  ],
+
+  mindset: [
+    "Clean Architecture",
+    "Performance",
+    "UX",
+    "Scalability",
+    "Security",
+    "Maintainability"
+  ],
+
   portfolio: "https://www.berekettadesse.com/"
 };
+```
