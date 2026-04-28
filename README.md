@@ -87,7 +87,7 @@ I enjoy turning ambitious ideas into reliable software that feels fast, clear, a
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=berek47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=berek47&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berek47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
 
